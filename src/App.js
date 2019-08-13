@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <div className="waves-effect waves-light btn">button</div>
       </header>
     </div>
   );
