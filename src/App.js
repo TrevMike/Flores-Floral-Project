@@ -3,6 +3,7 @@ import AboutMe from './AboutMe';
 import Home from './Home';
 import './App.css';
 import FuneralSprays from './FuneralSprays';
+
 // import Logo from './assects/logo-via-logohub.png';
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <header>
       <div className="navbar-fixed">
           <nav>
-            <div className="nav-wrapper red lighten-4">
+            <div className="nav-wrapper deep-orange lighten-5">
               <div className="brand-logo black-text">Flores Floral</div>
               <ul className="right hide-on-med-and-down">
                 <li><a href="sass.html" className="black-text">Home</a></li>
@@ -25,7 +26,7 @@ function App() {
       </header>
       <Home/> 
       <AboutMe/>
-      <FuneralSprays/>
+      <FuneralSprays/> 
 
       <footer className="page-footer" id="BottomTest">
           <div className="container">
@@ -49,7 +50,7 @@ function App() {
           <div className="footer-copyright">
             <div className="container">
             © 2017 Copyright
-            <div className="grey-text text-lighten-4 right">Michael Trevino</div>
+            <div className="grey-text text-lighten-4 right">JikeMedia.com</div>
             </div>
           </div>
         </footer>
