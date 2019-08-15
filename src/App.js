@@ -10,14 +10,14 @@ function App() {
     <div>
 
       <header>
-      <div className="navbar-fixed">
+      <div className="navbar moveWithPage">
           <nav>
             <div className="nav-wrapper deep-orange lighten-5">
-              <div className="brand-logo black-text">Flores Floral</div>
+              <div className="brand-logo black-text nText">Flores Floral</div>
               <ul className="right hide-on-med-and-down">
                 <li><a href="sass.html" className="black-text">Home</a></li>
                 <li><a href="badges.html" className="black-text">About</a></li>
-                <li><a href="badges.html" className="black-text">Funeral Sprays</a></li>
+                <li><a href="badges.html" className="black-text">Services</a></li>
                 <li><a href="BottomTest" className="black-text">Contact</a></li>
               </ul>
             </div>

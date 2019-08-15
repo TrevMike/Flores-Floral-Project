@@ -3,7 +3,7 @@ import './App.css';
 
 function FuneralSprays() {
     return(
-        <div className="funeralSpraysContainer">
+        <div className="funeralSpraysContainer deep-orange lighten-3">
         </div>
     )
 }
