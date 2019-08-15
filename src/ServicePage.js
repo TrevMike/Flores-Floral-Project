@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
 
-function FuneralSprays() {
+function ServicePage() {
     return(
         <div className="funeralSpraysContainer deep-orange lighten-3">
         </div>
     )
 }
 
-export default FuneralSprays
+export default ServicePage

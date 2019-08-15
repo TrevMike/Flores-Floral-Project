@@ -2,7 +2,7 @@ import React from 'react';
 import AboutMe from './AboutMe';
 import Home from './Home';
 import './App.css';
-import FuneralSprays from './FuneralSprays';
+import ServicePage from './ServicePage';
 
 // import Logo from './assects/logo-via-logohub.png';
 function App() {
@@ -26,7 +26,7 @@ function App() {
       </header>
       <Home/> 
       <AboutMe/>
-      <FuneralSprays/> 
+      <ServicePage/> 
 
       <footer className="page-footer" id="BottomTest">
           <div className="container">
