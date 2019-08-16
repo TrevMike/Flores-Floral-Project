@@ -49,8 +49,8 @@ function App() {
           </div>
           <div className="footer-copyright">
             <div className="container">
-            © 2017 Copyright
-            <div className="grey-text text-lighten-4 right">JikeMedia.com</div>
+            © 2017 Copyright Flores Floral - All rights reserved
+            <div className="grey-text text-lighten-4 right">Built by JikeMedia.com</div>
             </div>
           </div>
         </footer>

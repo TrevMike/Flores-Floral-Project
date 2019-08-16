@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 // import Flowers from './assects/LianaMikah.jpg'
 // import Flowers from './assects/AntonDarius.jpg'
-import Flowers from './assects/VarsheshJoshi.jpg'
+import Flowers from './assets/VarsheshJoshi.jpg'
 // import Logo from './assects/logo-via-logohub.png';
 
 function Home() {
@@ -26,7 +26,6 @@ function Home() {
                 <a href="#!" className="theHomeLinks flow-text">Contact</a>
             </div>
         </div> */}
-
         <div className="homePageTitle">
             <h1 className="header center black-text nText">Flores Floral</h1>
             <div className="row center">
